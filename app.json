@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Whitedeviljoypow/STARLIGHT-BOT",
-    "repository": "https://github.com/Whitedeviljoypow/STARLIGHT-BOT",
+    "website": "https://github.com/Whitedeviljoypow1/STARLIGHT-BOT",
+    "repository": "https://github.com/Whitedeviljoypow1/STARLIGHT-BOT",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
@@ -62,7 +62,7 @@
         },
         "CUSTOM_FILE_CAPTION": {
             "description": "A custom file caption for your files. formatable with , file_name, file_caption, file_size, Read Readme.md for better understanding.",
-            "value": "{file_name}\n\n🔘 size - {file_size}\n\n╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗\n💥 𝙅𝙊𝙄𝙉 :- @MN_BOTZ_UPDATES\n💥 𝙅𝙊𝙄𝙉 :- @QUALITYMOVIESGROUP1\n╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝ ",
+            "value": "{file_name}\n\n🔘 size - {file_size}\n\n╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗\n💥 𝙅𝙊𝙄𝙉 :- @MN_BOTZ\n💥 𝙅𝙊𝙄𝙉 :- @QUALITYMOVIESGROUP1\n╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝ ",
             "required": false
         },
         "DATABASE_URI": {
@@ -100,7 +100,7 @@
             "required": false  
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/Whitedeviljoypow/joypow/issues/22",
+            "description": "choose b/w single or double buttons https://github.com/Whitedeviljoypow1/joypow/issues/22",
             "value": "True",
             "required": false         
         },
